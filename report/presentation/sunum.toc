@@ -1,0 +1,16 @@
+\beamer@endinputifotherversion {3.26pt}
+\beamer@sectionintoc {2}{Monte Carlo Method}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Estimation of Expected Value}{4}{0}{1}
+\beamer@subsectionintoc {2}{2}{Getting Samples with Desired Probability Distribution}{5}{0}{1}
+\beamer@sectionintoc {3}{The Ising Model and Analysis of System Properties }{6}{0}{2}
+\beamer@subsectionintoc {3}{1}{The Ising Model}{6}{0}{2}
+\beamer@subsectionintoc {3}{2}{Analysis of System Properties}{7}{0}{2}
+\beamer@sectionintoc {4}{Metropolis Algorithm}{8}{0}{3}
+\beamer@subsectionintoc {4}{1}{Structure of Metropolis Algorithm}{8}{0}{3}
+\beamer@sectionintoc {5}{Results}{9}{0}{4}
+\beamer@subsectionintoc {5}{1}{Equilibration Time}{9}{0}{4}
+\beamer@subsectionintoc {5}{2}{Autocorrelation Function and Correlation Time}{10}{0}{4}
+\beamer@sectionintoc {6}{Investigation of System at Critical Temperature}{15}{0}{5}
+\beamer@subsectionintoc {6}{1}{Phase Transition and Critical Slowing Down}{15}{0}{5}
+\beamer@subsectionintoc {6}{2}{Wolff Algorithm}{16}{0}{5}
+\beamer@subsectionintoc {6}{3}{Finite Size Scaling}{17}{0}{5}

@@ -1,0 +1,15 @@
+\BOOKMARK [2][]{Outline0.2}{Monte Carlo Method}{}% 1
+\BOOKMARK [3][]{Outline0.2.1.4}{Estimation of Expected Value}{Outline0.2}% 2
+\BOOKMARK [3][]{Outline0.2.2.5}{Getting Samples with Desired Probability Distribution}{Outline0.2}% 3
+\BOOKMARK [2][]{Outline0.3}{The Ising Model and Analysis of System Properties }{}% 4
+\BOOKMARK [3][]{Outline0.3.1.6}{The Ising Model}{Outline0.3}% 5
+\BOOKMARK [3][]{Outline0.3.2.7}{Analysis of System Properties}{Outline0.3}% 6
+\BOOKMARK [2][]{Outline0.4}{Metropolis Algorithm}{}% 7
+\BOOKMARK [3][]{Outline0.4.1.8}{Structure of Metropolis Algorithm}{Outline0.4}% 8
+\BOOKMARK [2][]{Outline0.5}{Results}{}% 9
+\BOOKMARK [3][]{Outline0.5.1.9}{Equilibration Time}{Outline0.5}% 10
+\BOOKMARK [3][]{Outline0.5.2.10}{Autocorrelation Function and Correlation Time}{Outline0.5}% 11
+\BOOKMARK [2][]{Outline0.6}{Investigation of System at Critical Temperature}{}% 12
+\BOOKMARK [3][]{Outline0.6.1.15}{Phase Transition and Critical Slowing Down}{Outline0.6}% 13
+\BOOKMARK [3][]{Outline0.6.2.16}{Wolff Algorithm}{Outline0.6}% 14
+\BOOKMARK [3][]{Outline0.6.3.17}{Finite Size Scaling}{Outline0.6}% 15

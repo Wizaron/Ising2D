@@ -1,0 +1,68 @@
+\beamer@endinputifotherversion {3.26pt}
+\headcommand {\sectionentry {1}{Outline}{1}{Outline}{0}}
+\headcommand {\beamer@sectionpages {1}{0}}
+\headcommand {\beamer@subsectionpages {1}{0}}
+\headcommand {\slideentry {1}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {1}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {2}{Monte Carlo Method}{3}{Monte Carlo Method}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\slideentry {2}{0}{3}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{4}{Estimation of Expected Value}}\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\slideentry {2}{1}{1}{4/4}{Estimation of Expected Value}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{5}{Getting Samples with Desired Probability Distribution}}\headcommand {\beamer@subsectionpages {4}{4}}
+\headcommand {\slideentry {2}{2}{1}{5/5}{Getting Samples with Desired Probability Distribution}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\sectionentry {3}{The Ising Model and Analysis of System Properties }{6}{The Ising Model and Analysis of System Properties }{0}}
+\headcommand {\beamer@sectionpages {3}{5}}
+\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{6}{The Ising Model}}\headcommand {\beamer@subsectionpages {6}{5}}
+\headcommand {\slideentry {3}{1}{1}{6/6}{The Ising Model}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{7}{Analysis of System Properties}}\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\slideentry {3}{2}{1}{7/7}{Analysis of System Properties}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\sectionentry {4}{Metropolis Algorithm}{8}{Metropolis Algorithm}{0}}
+\headcommand {\beamer@sectionpages {6}{7}}
+\headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{8}{Structure of Metropolis Algorithm}}\headcommand {\beamer@subsectionpages {8}{7}}
+\headcommand {\slideentry {4}{1}{1}{8/8}{Structure of Metropolis Algorithm}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\sectionentry {5}{Results}{9}{Results}{0}}
+\headcommand {\beamer@sectionpages {8}{8}}
+\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{9}{Equilibration Time}}\headcommand {\beamer@subsectionpages {9}{8}}
+\headcommand {\slideentry {5}{1}{1}{9/9}{Equilibration Time}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{10}{Autocorrelation Function and Correlation Time}}\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\slideentry {5}{2}{1}{10/10}{Autocorrelation Function and Correlation Time}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {5}{2}{2}{11/11}{Autocorrelation Function and Correlation Time}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\slideentry {5}{2}{3}{12/12}{Autocorrelation Function and Correlation Time}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {5}{2}{4}{13/13}{Autocorrelation Function and Correlation Time}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {5}{2}{5}{14/14}{Autocorrelation Function and Correlation Time}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\sectionentry {6}{Investigation of System at Critical Temperature}{15}{Investigation of System at Critical Temperature}{0}}
+\headcommand {\beamer@sectionpages {9}{14}}
+\headcommand {\beamer@subsectionpages {10}{14}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{15}{Phase Transition and Critical Slowing Down}}\headcommand {\beamer@subsectionpages {15}{14}}
+\headcommand {\slideentry {6}{1}{1}{15/15}{Phase Transition and Critical Slowing Down}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{16}{Wolff Algorithm}}\headcommand {\beamer@subsectionpages {15}{15}}
+\headcommand {\slideentry {6}{2}{1}{16/16}{Wolff Algorithm}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\beamer@partpages {1}{17}}
+\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\beamer@sectionpages {15}{17}}
+\headcommand {\beamer@documentpages {17}}
+\headcommand {\def \inserttotalframenumber {17}}
+\headcommand {\beamer@subsectionentry {0}{6}{3}{17}{Finite Size Scaling}}\headcommand {\beamer@subsectionpages {16}{16}}
+\headcommand {\slideentry {6}{3}{1}{17/17}{Finite Size Scaling}{0}}
+\headcommand {\beamer@framepages {17}{17}}

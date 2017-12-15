@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{mc}
+N.~Metropolis, ``The beginning of the monte carlo method,'' {\em Los Alamos
+  Science}, 1987.
+
+\bibitem{random}
+B.~Hayes, ``{Randomness as a Resource},'' {\em American Scientist}, vol.~89,
+  Aug 2001.
+
+\bibitem{krauth}
+W.~Krauth, {\em {Statistical Mechanics: Algorithms and Computations }}.
+\newblock 2006.
+
+\bibitem{wiley}
+R.~D. Yates and D.~J. Goodman, {\em {Probability and Stochastic Processes}}.
+\newblock 1999.
+
+\bibitem{newman}
+M.~E.~J. Newman and G.~T. Barkema, {\em {Monte Carlo Methods in Statistical
+  Physics }}.
+\newblock 1999.
+
+\bibitem{sandvik}
+A.~W. Sandvik, ``Monte carlo simulations in classical statistical physics,''
+  Fall 2013.
+
+\bibitem{sandvik_sse}
+A.~W. Sandvik, ``Sse algorithm and program for the s=1/2 heisenberg
+  antiferromagnet.''
+
+\end{thebibliography}

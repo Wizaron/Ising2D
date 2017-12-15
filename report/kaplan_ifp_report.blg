@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: kaplan_ifp_report.aux
+The style file: ieeetr.bst
+Database file #1: kaplan_ifp_report.bib
+Warning--empty publisher in krauth
+Warning--empty publisher in wiley
+Warning--empty publisher in newman
+You've used 7 entries,
+            1876 wiz_defined-function locations,
+            506 strings with 4025 characters,
+and the built_in function-call counts, 969 in all, are:
+= -- 82
+> -- 36
+< -- 0
++ -- 16
+- -- 9
+* -- 51
+:= -- 154
+add.period$ -- 9
+call.type$ -- 7
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 54
+empty$ -- 118
+format.name$ -- 9
+if$ -- 230
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 8
+newline$ -- 27
+num.names$ -- 7
+pop$ -- 37
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 14
+stack$ -- 0
+substring$ -- 0
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 7
+width$ -- 8
+write$ -- 56
+(There were 3 warnings)

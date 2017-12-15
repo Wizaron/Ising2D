@@ -1,0 +1,45 @@
+\contentsline {chapter}{Abstract}{iii}{chapter*.1}
+\contentsline {chapter}{List of Figures}{v}{chapter*.1}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}History of Monte Carlo Method}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Random Numbers for Monte Carlo Simulation}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Monte Carlo Method}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}Basic Implementations of the Monte Carlo Method}{3}{section.1.4}
+\contentsline {section}{\numberline {1.5}Gaussian Distribution and Central Limit Theorem}{5}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Gaussian Distribution}{5}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Central Limit Theorem (CLT)}{6}{subsection.1.5.2}
+\contentsline {chapter}{\numberline {2}The Monte Carlo Method (MC)}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Estimation of Expected Value}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Sampling}{12}{section.2.2}
+\contentsline {section}{\numberline {2.3}Markov Process and Markov Chain}{13}{section.2.3}
+\contentsline {subsubsection}{Markov Process}{13}{section*.3}
+\contentsline {subsubsection}{Markov Chain}{13}{section*.4}
+\contentsline {section}{\numberline {2.4}Acceptance Ratio and Selection Probabilities}{18}{section.2.4}
+\contentsline {chapter}{\numberline {3}The Ising Model and two of its MC Algorithms}{20}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Ising Model}{20}{section.3.1}
+\contentsline {section}{\numberline {3.2}Macroscopic Properties of Ising Model}{22}{section.3.2}
+\contentsline {section}{\numberline {3.3}How to Analyze Properties with Monte Carlo Method }{23}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Equilibration Time}{23}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Autocorrelation Function and Correlation Times}{24}{subsection.3.3.2}
+\contentsline {subsubsection}{Time Displaced Autocorrelation Function}{24}{section*.5}
+\contentsline {subsubsection}{Correlation Times and Markov Matrices}{26}{section*.6}
+\contentsline {subsection}{\numberline {3.3.3}Errors in Calculation}{28}{subsection.3.3.3}
+\contentsline {subsubsection}{Statistical Errors}{28}{section*.7}
+\contentsline {subsubsection}{Systematic Errors}{30}{section*.8}
+\contentsline {section}{\numberline {3.4}Metropolis Algorithm}{30}{section.3.4}
+\contentsline {section}{\numberline {3.5}Implementation of Metropolis simulation of the Ising Model}{32}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Calculation of Energy and Magnetization}{34}{subsection.3.5.1}
+\contentsline {subsubsection}{Energy per site}{34}{section*.9}
+\contentsline {subsubsection}{Magnetization per site}{34}{section*.10}
+\contentsline {subsection}{\numberline {3.5.2}Equilibration Time}{35}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}Autocorrelation Function and Correlation times}{37}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3.5.4}Analysis of Macroscopic System Properties}{38}{subsection.3.5.4}
+\contentsline {section}{\numberline {3.6}Phase Transitions}{42}{section.3.6}
+\contentsline {section}{\numberline {3.7}Critical and Dynamic Exponent}{44}{section.3.7}
+\contentsline {section}{\numberline {3.8}Measurement of Dynamic Exponent, z}{46}{section.3.8}
+\contentsline {section}{\numberline {3.9}Wolff Algorithm}{47}{section.3.9}
+\contentsline {section}{\numberline {3.10}Implementation of Wolff simulation of the Ising Model}{49}{section.3.10}
+\contentsline {chapter}{\numberline {4}Finite Size Scaling}{52}{chapter.4}
+\contentsline {chapter}{\numberline {5}Binder Ratios}{59}{chapter.5}
+\contentsline {chapter}{\numberline {6}Stochastic Series Expansion (SSE)}{61}{chapter.6}
+\contentsline {chapter}{\numberline {A}Programs}{75}{appendix.A}
