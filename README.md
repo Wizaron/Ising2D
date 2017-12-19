@@ -1,7 +1,7 @@
 # Monte Carlo Simulation of the Ising Model in 2D 
 
 * Monte Carlo Simulation of the Ising Model in 2D using Metropolis (with and without Stochastic Series Expansion) and Wolff algorithms.
-* Includes reports and codes (python) for Advanced Physics Lab. (FIZ 421E - Fall 2014) project at Istanbul Technical University.
+* Includes reports and codes (python) for Advanced Physics Lab. (FIZ 421E - Fall 2014) project under supervision of [Assoc. Prof. Dr. Ahmet Levent Subaşı](https://scholar.google.com/citations?user=0fBOrbwAAAAJ&hl=en) at Istanbul Technical University, Physics Engineering Department.
 * You can find the report and presentation in "reports" directory.
 
 ## Abstact
